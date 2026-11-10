@@ -816,7 +816,7 @@ a:focus-visible {
 .quick-contact {
   position: fixed;
   right: 24px;
-  bottom: 24px;
+  bottom: 92px;
   z-index: 20;
 }
 
@@ -1013,7 +1013,7 @@ a:focus-visible {
 @media (max-width: 520px) {
   .quick-contact {
     right: 16px;
-    bottom: 16px;
+    bottom: 92px;
   }
 
   .site-header {
